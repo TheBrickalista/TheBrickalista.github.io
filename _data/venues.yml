@@ -1,9 +1,41 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Trends Biotechnol":
 
-"PhysRev":
-  url: https://journals.aps.org/
+"STAR Protoc":
 
-"Vision":
-  color: "#009f36"
+"J Cell Sci":
+  url: https://journals.biologists.com/jcs
+
+"Cell Metab":
+
+"J Invest Dermatol":
+
+"Eur J Cell Biol":
+
+"Nat Commun":
+
+"Cancer Metab":
+
+"Cancer Res":
+  url: https://aacrjournals.org/cancerres
+
+"J Exp Med":
+  url: https://rupress.org/jem
+
+"Methods Mol Biol":
+
+"FASEB J":
+  url: https://faseb.onlinelibrary.wiley.com/
+
+"Nat Rev Mol Cell Biol":
+
+"PLoS One":
+  url: https://journals.plos.org/plosone
+
+"Small GTPases":
+
+"Nat Cell Biol":
+
+"Int Rev Cell Mol Biol":
+
+"J Cell Biol":
+  url: https://rupress.org/jcb

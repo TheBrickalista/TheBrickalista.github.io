@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: etienne.boulter@univ-cotedazur.fr # your email address
 orcid_id: 0000-0001-6597-9086 # your ORCID ID
-# scholar_userid: # your Google Scholar ID (the part after user= in your profile URL)
+scholar_userid: 5C8oDCsAAAAJ # your Google Scholar ID (the part after user= in your profile URL)
 github_username: TheBrickalista # your GitHub username
 # linkedin_username: # your LinkedIn username
 # research_gate_profile: # your ResearchGate profile name

@@ -13,7 +13,7 @@ profile:
     <p>28 avenue de Valombrose</p>
     <p>06107 Nice Cedex 2, France</p>
 
-selected_papers: false # set to true once papers.bib contains your publications marked selected={true}
+selected_papers: true # set to true once papers.bib contains your publications marked selected={true}
 social: true # includes social icons at the bottom of the page
 
 announcements:
