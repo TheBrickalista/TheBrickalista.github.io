@@ -2,33 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Inserm researcher (CR) at <a href='https://www.ircan.org'>IRCAN</a>, Université Côte d'Azur, Nice
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>IRCAN, Faculté de Médecine</p>
+    <p>28 avenue de Valombrose</p>
+    <p>06107 Nice Cedex 2, France</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # set to true once papers.bib contains your publications marked selected={true}
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # set to true once _news contains your own items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # set to true once _posts contains your own posts
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Inserm researcher (Chargé de Recherche) at the Institute for Research on Cancer and Aging of Nice (IRCAN), Université Côte d'Azur, where I work with Chloé Féral's team.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is in **mechanobiology**: how cells sense and respond to mechanical forces. I study integrin-mediated mechanotransduction and nuclear mechanosensing, in particular how the nucleus and the LINC complex shape RhoA/GEF-H1 signalling. To separate the nucleus from the rest of the cell, I use enucleated cells (cytoplasts), combined with traction force microscopy and biochemical assays.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also build **open-source scientific instruments and software**. This includes a LEGO-based cell stretcher (_Journal of Cell Science_, 2020; _STAR Protocols_, 2021), Magzy, a LEGO magnetic tweezers system, and Python tools for the lab such as PysternBlot, for traceable Western blot figures.
+
+Before joining Inserm, I was a postdoctoral fellow at the University of North Carolina at Chapel Hill.
