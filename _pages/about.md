@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Inserm researcher (CR) at <a href='https://www.ircan.org'>IRCAN</a>, Université Côte d'Azur, Nice
+subtitle: Cell Biologist 
+          <a href='https://www.ircan.org'>IRCAN</a> Université Côte d'Azur - INSERM - CNRS - Nice, France
 
 profile:
   align: right
