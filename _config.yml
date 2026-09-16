@@ -9,7 +9,9 @@ last_name: Boulter
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Etienne Boulter, Inserm researcher at IRCAN (Université Côte d'Azur, Nice). Mechanobiology, integrin mechanotransduction, nuclear mechanosensing and open-source scientific instrumentation.
+  Etienne Boulter, Cell Biologist.
+  IRCAN - Université Côte d'Azur - INSERM - CNRS - Nice, France. 
+  Mechanobiology, integrin mechanotransduction, nuclear mechanosensing and open-source scientific instrumentation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
