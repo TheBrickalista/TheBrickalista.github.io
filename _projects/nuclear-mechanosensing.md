@@ -11,7 +11,6 @@ This is a current research focus in the lab. Cells constantly sense and respond 
 
 We study the role of the nucleus and the LINC (Linker of Nucleoskeleton and Cytoskeleton) complex in cellular mechanotransduction, in particular how they shape RhoA/GEF-H1 signalling. To isolate the contribution of the nucleus from the rest of the cell, we compare enucleated cells (cytoplasts) with intact cells, combining traction force microscopy with biochemical assays of RhoA activity.
 
-This project builds on our earlier work on RhoA regulation and on the LEGO®-based cell stretcher developed in the lab, which provides a way to apply controlled mechanical stimulation to cells while measuring their response.
 
 <!-- TODO: add publications from this project once available -->
 
