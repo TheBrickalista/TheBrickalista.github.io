@@ -15,6 +15,6 @@ This project builds on our earlier work on RhoA regulation and on the LEGO®-bas
 
 <!-- TODO: add publications from this project once available -->
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/nuclear-mechanosensing.jpg" title="Nuclear mechanosensing" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}

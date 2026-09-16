@@ -14,6 +14,6 @@ In skin, CD98hc is required for normal epidermal homeostasis and wound healing, 
 
 Mechanistically, we found that CD98hc regulates integrin rigidity sensing not directly, but indirectly, through its control of sphingolipid biosynthesis, which in turn affects RhoA activation downstream of integrins {% cite boulter2018cell %}. This body of work is summarized in a review on skin as a mechanical interface {% cite tissot2016body %}.
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/integrin-mechanosensing-metabolism.jpg" title="Integrin mechanosensing and cell metabolism" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}

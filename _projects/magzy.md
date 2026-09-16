@@ -17,6 +17,6 @@ The system is currently in development, and details of its design and validation
 <!-- TODO: add a project/repository link once available -->
 <!-- TODO: add images once available -->
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/magzy.jpg" title="Magzy" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}

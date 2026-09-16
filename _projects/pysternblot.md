@@ -14,6 +14,6 @@ Analyses can be exported and imported as `.pbarchive` files, a dedicated archive
 
 PysternBlot is distributed on PyPI as [`pysternblot`](https://pypi.org/project/pysternblot/), with prebuilt macOS and Windows applications, and is released under the GPLv3 license. It is co-developed with Chloé Féral and archived on Zenodo at [doi.org/10.5281/zenodo.20185279](https://doi.org/10.5281/zenodo.20185279).
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/pysternblot.jpg" title="PysternBlot" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}

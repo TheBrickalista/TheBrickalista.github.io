@@ -16,6 +16,6 @@ This work is part of a broader interest in LEGO®-based instruments as a route t
 
 <!-- TODO: add build-instructions / hardware repository link once available -->
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/lego-cell-stretcher.jpg" title="LEGO cell stretcher" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}

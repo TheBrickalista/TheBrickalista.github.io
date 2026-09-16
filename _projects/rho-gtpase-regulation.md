@@ -16,6 +16,6 @@ Earlier, during my PhD, I worked on integrin-linked kinase (ILK) and its role in
 
 This earlier work laid the foundations of my current interest in RhoA regulation.
 
-<!--
+{% comment %}
 {% include figure.liquid path="assets/img/projects/rho-gtpase-regulation.jpg" title="Rho GTPase regulation" class="img-fluid rounded z-depth-1" %}
--->
+{% endcomment %}
