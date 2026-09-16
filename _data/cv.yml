@@ -1,189 +1,177 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Etienne Boulter
+  location: Nice, France
+  website: https://thebrickalista.github.io
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: ORCID
+      username: 0000-0001-6597-9086
+    - network: Google Scholar
+      username: 5C8oDCsAAAAJ
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: TheBrickalista
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Institute for Research on Cancer and Aging of Nice (IRCAN), Inserm U1081, CNRS UMR 7284, Université Côte d'Azur
+        position: Inserm Research Scientist (CRCN, tenured)
+        location: Nice, France
+        start_date: 2014
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Mechanobiology, integrin mechanotransduction and nuclear mechanosensing, in Chloé Féral's team.
+          - Development of open-source scientific instruments and software.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Inserm AVENIR U634, Skin Biology and Pathophysiology, University of Nice Sophia-Antipolis
+        position: Postdoctoral Researcher, laboratory of Dr Chloé Féral
+        location: Nice, France
+        start_date: 2009
+        end_date: 2014
+
+      - company: Department of Cell and Developmental Biology, Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill
+        position: Postdoctoral Researcher, laboratory of Prof. Keith Burridge
+        location: Chapel Hill, NC, USA
+        start_date: 2006
+        end_date: 2009
+
+      - company: Institute of Signaling, Developmental Biology and Cancer (CNRS UMR 6543), University of Nice Sophia-Antipolis
+        position: PhD Student, laboratory of Dr Ellen Van Obberghen-Schilling
+        location: Nice, France
+        start_date: 2000
+        end_date: 2005
+
+    Education:
+      - institution: University of Nice Sophia-Antipolis
+        area: Cell Biology
+        degree: PhD
+        location: Nice, France
+        start_date: 2001
+        end_date: 2005
         highlights:
-          - Description 1.
-          - Description 2.
+          - Highest honours (Mention Très Honorable avec Félicitations du Jury).
+          - CNRS UMR 6543, group of Dr Ellen Van Obberghen-Schilling.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - institution: University of Nice Sophia-Antipolis
+        area: Cell Biology and Physiology
+        degree: MSc (DEA)
+        location: Nice, France
+        start_date: 2000
+        end_date: 2001
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - institution: University of Nice Sophia-Antipolis
+        area: Biochemistry
+        degree: BSc (Maîtrise)
+        location: Nice, France
+        start_date: 1999
+        end_date: 2000
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Emergence funding
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Canceropôle PACA
+        date: 2025
+        awarder: Canceropôle PACA
 
-      - title: Max Planck Medal
+      - title: Prix Var – Dr Joseph Amalric
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Ligue contre le Cancer, Comité du Var
+        date: 2013
+        awarder: Ligue contre le Cancer, Comité du Var
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Marie Curie International Reintegration Grant (FP7, 2012–2015)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - European Commission
+        date: 2012
+        awarder: European Commission
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Senior postdoctoral fellowship (24 months)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Ligue Nationale Contre le Cancer
+        date: 2012
+        awarder: Ligue Nationale Contre le Cancer
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Postdoctoral fellowship (24 months, 2010–2011)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - City of Nice
+        date: 2010
+        awarder: City of Nice
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Postdoctoral Fellowship (24 months, 2008–2010)
+        authors:
+          - American Heart Association
+        date: 2008
+        awarder: American Heart Association
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Postdoctoral fellowship (12 months)
+        authors:
+          - Fondation pour la Recherche Médicale (FRM)
+        date: 2006
+        awarder: Fondation pour la Recherche Médicale (FRM)
 
-      - name: English
-        summary: "Fluent"
+      - title: End-of-PhD fellowship (12 months, 2004–2005)
+        authors:
+          - Fondation ARC
+        date: 2004
+        awarder: Fondation ARC
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: PhD fellowship (36 months, 2001–2004)
+        authors:
+          - French Ministry of Research (MENRT)
+        date: 2001
+        awarder: French Ministry of Research (MENRT)
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Selected Talks:
+      - label: "2024"
+        details: Mechanobiology across Scales, Nice, France (short talk)
+      - label: "2015"
+        details: Integrated Mechano-chemical Signals in Invasion, Saint-Paul, France (short talk)
+      - label: "2011"
+        details: Gordon Research Conference, Fibronectin, Integrin and Related Molecules, Il Ciocco, Italy (short talk)
+      - label: "2010"
+        details: Invited seminar, Sanquin Research Institute, Amsterdam, The Netherlands
+      - label: "2009"
+        details: ASCB Annual Meeting (short talk selected from abstracts, presented by R. Garcia-Mata)
+      - label: "2009"
+        details: Jacques Monod Conference on Small GTPases, Aussois, France (short talk)
+      - label: "2005"
+        details: CNRS GDR 2823 meeting on Rho GTPases and RhoGEFs, Montpellier, France (short talk)
+      - label: "2005"
+        details: Adhesion Meeting 2005, Munich, Germany (short talk)
+      - label: "2003"
+        details: Invited seminar, Centre de Recherche de l'Hôtel-Dieu de Québec, Québec, Canada
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Peer Review:
+      - bullet: "Reviewer for Journal of Cell Science, Nature Communications, Scientific Reports, PLOS ONE, Vascular Biology, JoVE, BBRC, British Journal of Cancer, Cell Adhesion & Migration, Trends in Biotechnology, Oncogene and STAR Protocols."
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Institutional Service:
+      - label: 2018–2023
+        details: Researchers' representative, IRCAN laboratory council
+      - label: 2018–2023
+        details: Organiser of the IRCAN internal seminar series
+      - label: 2012–2014
+        details: Non-permanent staff representative, IRCAN laboratory council
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    Supervision:
+      - label: "2025"
+        details: Zélie Oddoz, 1st-year engineering student, Polytech Nice
+      - label: "2020"
+        details: Anna Rausch de Traubenberg, 2nd-year engineering student, AgroParisTech
+      - label: "2018"
+        details: Julien Dilly, 1st-year engineering student, Polytech Nice
+      - label: "2016"
+        details: Pauline Humbert, 1st-year engineering student, Polytech Nice
+      - label: "2014"
+        details: Mélanie Pelouin, 1st-year engineering student, Polytech Nice
+      - label: 2008–2009
+        details: Shantanu Warhadpande, undergraduate student, UNC Chapel Hill
+      - label: "2004"
+        details: Caroline Ceraulo, Maîtrise student in Biochemistry, University of Nice Sophia-Antipolis
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Outreach and Media:
+      - bullet: '"LEGO® bricks are making science more accessible", [MIT Technology Review](https://www.technologyreview.com/2024/06/25/1093639/lego-bricks-science-accessibility/) (2024)'
+      - bullet: '"Des chercheurs utilisent des briques Lego pour reproduire les mécanismes des cellules", [RTBF](https://www.rtbf.be/article/des-chercheurs-utilisent-des-briques-lego-pour-reproduire-les-mecanismes-des-cellules-10420879)'
+      - bullet: '"Créer des outils de recherche : un jeu d''enfant", L''Humanité Dimanche (2020)'
+      - bullet: '"La mécanotransduction des tumeurs, une nouvelle approche contre le cancer", [Sciences et Avenir](https://www.sciencesetavenir.fr/sante/la-mecanotransduction-des-tumeurs-une-nouvelle-approche-contre-le-cancer_25795) (2013)'
+      - bullet: "Cordées de la réussite programme, outreach to secondary school students (2023, 2024)"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publication Record:
+      - bullet: "22 peer-reviewed articles, reviews and book chapters: see the full list at [thebrickalista.github.io/publications](https://thebrickalista.github.io/publications/)."
