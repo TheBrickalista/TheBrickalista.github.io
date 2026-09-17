@@ -16,6 +16,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   LEGO® is a trademark of the LEGO Group, which does not sponsor, authorize or endorse this site.
+  <a href="/legal/">Legal notice & privacy</a>.
 keywords: mechanobiology, mechanotransduction, integrins, cell adhesion, nuclear mechanosensing, LINC complex, RhoA, traction force microscopy, open hardware, scientific software, Inserm, IRCAN # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧱 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -24,7 +25,7 @@ apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL)
 url: https://thebrickalista.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: /legal/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -494,7 +495,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # The integrity hash is used to ensure that the library is not tampered with.
 # Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
 third_party_libraries:
-  download: true # if true, download the versions of the libraries specified below and use the downloaded files
+  download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
       css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="

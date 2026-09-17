@@ -24,7 +24,7 @@ Ce site est un site personnel. Les opinions qui y sont exprimées n'engagent que
 
 **Hébergement :** GitHub Pages peut enregistrer l'adresse IP des visiteurs dans ses journaux techniques, à des fins de sécurité. Voir la [déclaration de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement).
 
-**Contenus tiers :** certaines pages affichent des indicateurs fournis par des services tiers (Altmetric et Dimensions pour les publications, statistiques GitHub sur la page des dépôts). Leur affichage transmet votre adresse IP à ces services.
+**Contenus tiers :** pour afficher correctement le site, certaines ressources (polices de caractères, icônes et scripts) sont chargées depuis des services tiers (Google Fonts, jsDelivr). Certaines pages affichent aussi des indicateurs fournis par des services tiers (Altmetric et Dimensions pour les publications, statistiques GitHub sur la page des dépôts). Le chargement de ces contenus transmet votre adresse IP à ces services.
 
 **Courriels et candidatures :** les informations envoyées par courriel, y compris les dossiers de candidature (CV, relevés de notes), sont utilisées uniquement pour répondre à votre demande ou évaluer votre candidature. Elles ne sont pas transmises en dehors de l'équipe d'encadrement et sont supprimées au plus tard 6 mois après la fin du processus de recrutement.
 
@@ -48,7 +48,7 @@ This is a personal website. The views expressed here are solely those of the aut
 
 **Hosting:** GitHub Pages may record visitors' IP addresses in its technical logs for security purposes. See [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-**Third-party content:** some pages display indicators provided by third-party services (Altmetric and Dimensions for publications, GitHub statistics on the repositories page). Displaying them sends your IP address to these services.
+**Third-party content:** to display the site correctly, some resources (fonts, icons and scripts) are loaded from third-party services (Google Fonts, jsDelivr). Some pages also display indicators provided by third-party services (Altmetric and Dimensions for publications, GitHub statistics on the repositories page). Loading this content sends your IP address to these services.
 
 **Emails and applications:** information sent by email, including application files (CV, transcripts), is used only to answer your request or assess your application. It is not shared outside the supervising team and is deleted no later than 6 months after the end of the recruitment process.
 
