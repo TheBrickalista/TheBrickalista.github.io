@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
+published: false
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: false

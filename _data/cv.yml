@@ -152,19 +152,19 @@ cv:
 
     Supervision:
       - label: "2025"
-        details: Zélie Oddoz, 1st-year engineering student, Polytech Nice
+        details: 1st-year engineering student, Polytech Nice
       - label: "2020"
-        details: Anna Rausch de Traubenberg, 2nd-year engineering student, AgroParisTech
+        details: 2nd-year engineering student, AgroParisTech
       - label: "2018"
-        details: Julien Dilly, 1st-year engineering student, Polytech Nice
+        details: 1st-year engineering student, Polytech Nice
       - label: "2016"
-        details: Pauline Humbert, 1st-year engineering student, Polytech Nice
+        details: 1st-year engineering student, Polytech Nice
       - label: "2014"
-        details: Mélanie Pelouin, 1st-year engineering student, Polytech Nice
+        details: 1st-year engineering student, Polytech Nice
       - label: 2008–2009
-        details: Shantanu Warhadpande, undergraduate student, UNC Chapel Hill
+        details: Undergraduate student, UNC Chapel Hill
       - label: "2004"
-        details: Caroline Ceraulo, Maîtrise student in Biochemistry, University of Nice Sophia-Antipolis
+        details: Maîtrise student in Biochemistry, University of Nice Sophia-Antipolis
 
     Outreach and Media:
       - bullet: '"LEGO® bricks are making science more accessible", [MIT Technology Review](https://www.technologyreview.com/2024/06/25/1093639/lego-bricks-science-accessibility/) (2024)'
