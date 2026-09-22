@@ -12,7 +12,7 @@ subtitle: >-
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # set to true once papers.bib contains your publications marked selected={true}
