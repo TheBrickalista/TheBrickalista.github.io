@@ -16,10 +16,10 @@ We welcome motivated students interested in mechanobiology, cell biology and ope
 
 <div class="row justify-content-sm-center">
 <div class="col-sm-8 mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/positions/stage-master-affiche.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Affiche de l'offre de stage de Master : Le noyau, passager ou pilote de la mécanique cellulaire ?" %}
+{% include figure.liquid loading="eager" path="assets/img/positions/stage-master-affiche.jpg" class="img-fluid rounded z-depth-1" alt="Affiche de l'offre de stage de Master : Le noyau, passager ou pilote de la mécanique cellulaire ?" %}
 </div>
 </div>
-<div class="caption">Cliquer sur l'affiche pour l'agrandir · <a href="{{ '/assets/pdf/stage-master-affiche.pdf' | relative_url }}">Télécharger l'affiche (PDF)</a></div>
+<div class="caption"><a href="{{ '/assets/pdf/stage-master-affiche.pdf' | relative_url }}">Télécharger l'affiche (PDF)</a></div>
 
 ### Contexte
 
