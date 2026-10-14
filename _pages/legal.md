@@ -6,7 +6,7 @@ nav: false
 description: Mentions légales et confidentialité · Legal notice and privacy
 ---
 
-*English version below.*
+_English version below._
 
 ## Mentions légales
 
@@ -56,4 +56,4 @@ This is a personal website. The views expressed here are solely those of the aut
 
 ---
 
-*En cas de divergence entre les deux versions, la version française prévaut. · In case of discrepancy between the two versions, the French version prevails.*
+_En cas de divergence entre les deux versions, la version française prévaut. · In case of discrepancy between the two versions, the French version prevails._
